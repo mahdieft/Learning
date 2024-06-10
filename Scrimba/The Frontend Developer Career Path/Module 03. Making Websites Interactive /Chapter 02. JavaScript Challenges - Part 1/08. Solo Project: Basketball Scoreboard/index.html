@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Basketball Scoreboard</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="container">
+        <div id="score-container">
+            <div class="scoreboard">
+                <h2 class="team-name">Home</h2>
+                <p id="home-score" class="score">0</p>
+                <div class="score-buttons">
+                    <button class="btn-add-score" data-team="home" data-score="1">+1</button>
+                    <button class="btn-add-score" data-team="home" data-score="2">+2</button>
+                    <button class="btn-add-score" data-team="home" data-score="3">+3</button>
+                </div>
+            </div>
+
+            <div class="scoreboard">
+                <h2 class="team-name">Guest</h2>
+                <p id="guest-score" class="score">0</p>
+                <div class="score-buttons">
+                    <button class="btn-add-score" data-team="guest" data-score="1">+1</button>
+                    <button class="btn-add-score" data-team="guest" data-score="2">+2</button>
+                    <button class="btn-add-score" data-team="guest" data-score="3">+3</button>
+                </div>
+            </div>
+        </div> <!-- score-container -->
+
+        <div class="new-game">
+            <button id="new-game">New Game</button>
+        </div>
+    </div> <!-- #container -->
+
+    <script src="index.js"></script>
+</body>
+</html>
