@@ -1,0 +1,204 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    background-color: #F0F0F0;
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+    background-color: white;
+    font-family: "Smythe", system-ui;
+    min-height: 100vh;
+    padding-bottom: 50px;
+}
+
+/* header */
+header {
+    background-image: url("./images/burger.jpeg");
+    background-size: cover;
+    background-position-y: center;
+    padding: 1px 46px;
+    color: white;
+}
+
+header h1 {
+    margin: 50px 0 10px;
+    font-size: 40px;
+    font-weight: 400;
+}
+
+header p {
+    margin: 0 0 56px;
+    font-size: 22px;
+}
+
+/* content */
+main {
+    padding: 0 46px;
+}
+
+/* menu */
+.item {
+    border-bottom: 1px solid #F0F0F0;
+    padding-bottom: 50px;
+    margin-top: 45px;
+    display: flex;
+    gap: 30px;
+}
+
+.image {
+    font-size: 80px;
+    margin: 0;
+}
+
+.name {
+    font-size: 28px;
+    margin-top: 12px;
+    margin-bottom: 0;
+}
+
+.ingredients {
+    color: #8B8B8B;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.price {
+    font-size: 20px;
+    margin-top: 0;
+}
+
+.btn-add {
+    border: 1px solid #DEDEDE;
+    border-radius: 50%;
+    padding: 5px 8px;
+    background-color: inherit;
+    font-weight: 200;
+    margin: 13px 0 auto auto;
+}
+
+/* order summary */
+.summary {
+    display: none;
+}
+
+.summary h2 {
+    text-align: center;
+    font-size: 28px;
+    font-weight: 400;
+    margin-top: 45px;
+}
+
+.order-item {
+    display: flex;
+    gap: 10px;
+    align-items: baseline;
+}
+
+.btn-remove {
+    border: none;
+    font-family: Verdana, Arial, sans-serif;
+    color: #BBBBBB;
+    background-color: inherit;
+}
+
+.order-item .price {
+    margin-left: auto;
+}
+
+.total {
+    border-top: 2px solid #393333;
+    margin-top: 28px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.total h2 {
+    font-size: 28px;
+    margin-top: 15px;
+    font-weight: 400;
+}
+
+.btn-complete-order {
+    width: 100%;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    padding: 20px 0;
+    color: #FFFFFF;
+    background-color: #16DB99;
+    border: none;
+    border-radius: 5px;
+}
+
+/* payment modal */
+.modal-payment {
+    display: none;
+    position: fixed;
+    margin: auto;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 524px;
+    height: 524px;
+    background-color: #FFFFFF;
+}
+
+.modal-payment h2 {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.modal-payment form {
+    display: flex;
+    flex-direction: column;
+    padding: 24px;
+    gap: 23px;
+}
+
+.modal-payment input {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 20px;
+    color: #757575;
+    padding: 20px 25px;
+}
+
+.modal-payment .btn-pay {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-align: center;
+    background-color: #16DB99;
+    border: none;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+/* thank you message */
+.thank-you {
+    font-size: 30px;
+    text-align: center;
+    background-color: #ECFDF5;
+    padding: 40px;
+    color: #065F46;
+    margin-top: 50px;
+    display: none;
+}
+
+/* utility */
+.dark-background {
+    background-color: #E0E0E0;
+}
+
+.hidden {
+    display: none;
+}
