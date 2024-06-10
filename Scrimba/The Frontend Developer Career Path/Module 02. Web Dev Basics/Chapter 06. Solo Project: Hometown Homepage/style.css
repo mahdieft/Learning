@@ -1,0 +1,103 @@
+body {
+    margin: 0;
+}
+
+#container {
+    width: 720px;
+    margin: 0 auto;
+}
+
+#hero {
+    background-image: url("images/town.jpeg");
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 1px 0;
+}
+
+#hero h1 {
+    width: 230px;
+    color: #FFF;
+    font-size: 32px;
+    border-radius: 10px;
+    background-color: #1D3557;
+    padding: 5px 0;
+    margin: 110px auto 0;
+}
+
+#hero p {
+    width: 305px;
+    border-radius: 10px;
+    background-color: #457B9D;
+    color: #FFF;
+    font-size: 18px;
+    padding: 5px 20px;
+    margin: 16px auto 100px;
+    line-height: 1.5;
+}
+
+#activities {
+    background: #F1FAEE;
+    padding: 1px 0 40px;
+    font-family: Arial, sans-serif;
+    color: #1D3557;
+}
+
+#activities h2 {
+    margin-top: 40px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#activity-container {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.activity {
+    width: 210px;
+    text-align: center;
+    color: #1D3557;
+}
+
+.activity h3 {
+    font-size: 16px;
+    width: 180px;
+}
+
+.activity-image {
+    border-radius: 50%;
+    width: 100px;
+}
+
+.guide-container {
+    font-family: Arial, sans-serif;
+    display: flex;
+    gap: 10px;
+    width: 400px;
+    margin: 60px auto;
+    text-align: center;
+    border-radius: 10px;
+    background: #A8DADC;
+    box-shadow: 0 6px 0 0 #1D3557;
+    padding: 25px 15px;
+    color: #1D3557;
+}
+
+.guide-container h3 {
+    font-size: 24px;
+}
+
+.guide-container p {
+    font-style: italic;
+}
+
+.guide-container p.guide-name {
+    font-style: normal;
+    font-weight: 700;
+}
+
+.guide-container img {
+    width: 180px;
+}
