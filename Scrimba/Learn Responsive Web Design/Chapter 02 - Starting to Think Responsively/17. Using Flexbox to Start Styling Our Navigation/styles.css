@@ -1,0 +1,16 @@
+header {
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+
+
+    margin: 0 1em;
+}
