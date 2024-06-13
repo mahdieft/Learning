@@ -59,6 +59,8 @@ strong {
     color: #1792D2;
     font-size: .75rem;
     margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
 }
 
 .article-title {
@@ -74,6 +76,8 @@ strong {
     color: #1792D2;
     text-decoration: none;
     font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
 }
 
 .article-read-more:hover,
@@ -126,8 +130,8 @@ header {
 }
 
 footer {
-    background: #143774;
-    color: white;
+    background: #345480;
+    color: rgba(255, 255, 255, .65);
     text-align: center;
     padding: 3em 0;
 }
@@ -170,6 +174,8 @@ nav a {
     color: #707070;
     font-weight: 700;
     padding: .25em 0;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
 }
 
 nav a:hover,
