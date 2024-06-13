@@ -1,8 +1,8 @@
 body {
     margin: 0;
     font-size: 10px;
-    font-family: 'Lato', sans-serif;
-    color: #2e354f;
+    font-family: "Lato", sans-serif;
+    color: #2E354F;
 }
 
 .section-one {
@@ -32,16 +32,16 @@ h1 {
 
 h2 {
     font-size: 2em;
-    color: #ef5839;
+    color: #EF5839;
 }
 
 a {
-    color: #ef5839;
+    color: #EF5839;
 }
 
 a:hover,
 a:focus {
-    color: #d4b44c;
+    color: #D4B44C;
 }
 
 /* Buttons */
@@ -53,31 +53,31 @@ a:focus {
 }
 
 .btn-accent {
-    background: #ef5839;
-    color: #fff;
+    background: #EF5839;
+    color: #FFF;
 }
 
 .btn-accent:hover {
-    color: #2e354f;
-    background: #d4b44c;
+    color: #2E354F;
+    background: #D4B44C;
 }
 
 .btn-white {
-    background: #fff;
-    color: #2e354f;
+    background: #FFF;
+    color: #2E354F;
 }
 
 .btn-white:hover {
-    color: #2e354f;
+    color: #2E354F;
     background: #999;
 }
 
 /* Layout */
 
 header {
-    background: #2e354f;
+    background: #2E354F;
     padding: 45px 0;
-    color: #fff;
+    color: #FFF;
 }
 
 section {
@@ -90,6 +90,6 @@ section {
 }
 
 .section-two {
-    background: #2e354f;
-    color: #fff;
+    background: #2E354F;
+    color: #FFF;
 }

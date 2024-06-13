@@ -1,8 +1,8 @@
 body {
     margin: 0;
-    color: #82a5ca;
+    color: #82A5CA;
     text-align: center;
-    font-family: 'Orbitron', sans-serif;
+    font-family: "Orbitron", sans-serif;
 }
 
 #hero {
@@ -23,12 +23,11 @@ body {
     padding: 6px 12px;
     background: white;
     border: none;
-    font-family: 'Orbitron', sans-serif;
-    color: #82a5ca;
+    font-family: "Orbitron", sans-serif;
+    color: #82A5CA;
     font-weight: 800;
 }
 
 .underline {
     border-bottom: 4px solid white;
 }
-   

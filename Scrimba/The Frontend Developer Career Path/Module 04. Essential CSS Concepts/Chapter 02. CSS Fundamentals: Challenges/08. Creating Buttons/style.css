@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 21px;
     font-weight: 300;
     margin: 0;
@@ -85,5 +85,5 @@ a.btn {
 a.btn:hover,
 a.btn:focus {
     background-color: #252525;
-    color: #fff;
+    color: #FFF;
 }

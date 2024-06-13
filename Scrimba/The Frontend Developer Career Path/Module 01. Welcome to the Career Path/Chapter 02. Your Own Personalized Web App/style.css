@@ -12,26 +12,26 @@
 
 
     /* COLORS */
-    --blood: #8a0303;
+    --blood: #8A0303;
     --slime: #228B22;
     --gloom: #2B363B;
-    --candy: #ee698e;
+    --candy: #EE698E;
     --purple: #7B1E7A;
     --blue: #2176AE;
     --olive: #A6C48A;
     --royal: #0A1045;
     --lilac: #B8AED6;
-    --snow: #f4f9e9;
+    --snow: #F4F9E9;
 
     /* FONTS */
-    --scary-font: 'Metal Mania';
-    --typewriter-font: 'Inconsolata';
-    --funny-font: 'Balsamiq Sans';
-    --curly-font: 'Pacifico';
-    --old-style-font: 'Cinzel';
-    --simple-font: 'Noto Sans HK';
-    --funky-font: 'MuseoModerno';
-    --sweet-font: 'Lobster';
+    --scary-font: "Metal Mania";
+    --typewriter-font: "Inconsolata";
+    --funny-font: "Balsamiq Sans";
+    --curly-font: "Pacifico";
+    --old-style-font: "Cinzel";
+    --simple-font: "Noto Sans HK";
+    --funky-font: "MuseoModerno";
+    --sweet-font: "Lobster";
 }
 
 

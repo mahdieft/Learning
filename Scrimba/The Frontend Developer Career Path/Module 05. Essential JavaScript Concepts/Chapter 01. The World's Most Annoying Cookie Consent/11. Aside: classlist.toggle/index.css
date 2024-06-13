@@ -5,13 +5,13 @@ html, body {
 
 h1 {
     font-size: 41px;
-    font-family: 'Libre Franklin', sans-serif;
+    font-family: "Libre Franklin", sans-serif;
     text-align: center;
-    color: #6497b1;
+    color: #6497B1;
 }
 
 .accent {
-    color: #03396c;
+    color: #03396C;
     font-style: italic;
 }
 
@@ -34,23 +34,23 @@ h1 {
 }
 
 .blue-1 {
-    background-color: #011f4b;
+    background-color: #011F4B;
 }
 
 .blue-2 {
-    background-color: #03396c;
+    background-color: #03396C;
 }
 
 .blue-3 {
-    background-color: #005b96;
+    background-color: #005B96;
 }
 
 .blue-4 {
-    background-color: #6497b1;
+    background-color: #6497B1;
 }
 
 .blue-5 {
-    background-color: #b3cde0;
+    background-color: #B3CDE0;
 }
 
 .btn-controls {

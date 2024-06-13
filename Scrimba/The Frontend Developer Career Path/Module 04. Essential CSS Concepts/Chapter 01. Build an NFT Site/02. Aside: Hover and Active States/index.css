@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: 'Roboto';
+    font-family: "Roboto";
 }
 
 h1 {
@@ -8,7 +8,7 @@ h1 {
     padding: 20px;
     border: 3px solid orange;
     border-radius: 4.6px;
-    font-family: 'Creepster', sans-serif;
+    font-family: "Creepster", sans-serif;
     font-size: 34px;
     letter-spacing: 2px;
     color: orange;
@@ -48,7 +48,7 @@ header {
 }
 
 .logo {
-    background-image: url('images/haunted-tree.png');
+    background-image: url("images/haunted-tree.png");
     height: 145px;
     width: 100px;
     background-size: contain;

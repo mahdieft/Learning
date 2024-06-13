@@ -4,7 +4,7 @@ html, body {
 }
 
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 
 .container {
@@ -84,7 +84,7 @@ h1 {
 }
 
 p {
-    color: #fff;
+    color: #FFF;
     padding: 0.3em .5em;
     font-size: 12px;
 }

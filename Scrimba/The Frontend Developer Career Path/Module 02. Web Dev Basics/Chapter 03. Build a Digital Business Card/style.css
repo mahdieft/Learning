@@ -15,9 +15,9 @@ body {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    background: #ddebf8;
-    color: #2b2839;
-    border-bottom: 6px solid #d8cefe;
+    background: #DDEBF8;
+    color: #2B2839;
+    border-bottom: 6px solid #D8CEFE;
 }
 
 .border-blue {

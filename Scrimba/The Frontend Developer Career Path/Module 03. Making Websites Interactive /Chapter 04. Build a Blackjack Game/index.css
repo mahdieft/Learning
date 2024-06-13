@@ -1,5 +1,5 @@
 body {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", Arial, sans-serif;
     background-image: url("images/table.png");
     background-size: cover;
     font-weight: bold;
@@ -16,7 +16,7 @@ h1 {
 }
 
 button {
-    color: #016f32;
+    color: #016F32;
     width: 150px;
     background: goldenrod;
     padding-top: 5px;

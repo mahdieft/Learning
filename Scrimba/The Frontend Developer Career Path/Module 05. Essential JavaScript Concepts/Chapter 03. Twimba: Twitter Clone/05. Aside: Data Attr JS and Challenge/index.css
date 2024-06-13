@@ -22,9 +22,9 @@ header {
 }
 
 .title {
-    font-family: 'Caesar Dressing', cursive;
+    font-family: "Caesar Dressing", cursive;
     background-color: black;
-    border: 2px solid #ffe600;
+    border: 2px solid #FFE600;
     padding: 3px 7px;
     color: whitesmoke;
     position: absolute;
@@ -35,11 +35,11 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #f80000;
+    background-color: #F80000;
     width: 60px;
     height: 60px;
     border-radius: 50%;
-    border: 3px solid #ffe600;
+    border: 3px solid #FFE600;
 }
 
 .logo img {
@@ -69,7 +69,7 @@ i:hover {
 }
 
 .img-container {
-    border: 3px solid #ffe600;
+    border: 3px solid #FFE600;
     border-radius: 5px;
     margin-top: 10px;
 }

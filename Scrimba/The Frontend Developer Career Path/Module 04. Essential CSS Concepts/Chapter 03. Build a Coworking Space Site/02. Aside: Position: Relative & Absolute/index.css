@@ -1,9 +1,9 @@
 body {
     margin: 0;
     padding: 0;
-    background: linear-gradient(#2980b9, #6dd5fa);
+    background: linear-gradient(#2980B9, #6DD5FA);
     height: 100vh;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
 }
 
 h1 {

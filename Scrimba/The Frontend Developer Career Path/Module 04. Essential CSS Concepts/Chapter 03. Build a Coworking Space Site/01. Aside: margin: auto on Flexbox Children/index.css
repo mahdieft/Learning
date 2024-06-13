@@ -7,7 +7,7 @@ html, body {
     display: flex;
     width: 400px;
     height: 400px;
-    background-image: url('husky.jpeg');
+    background-image: url("husky.jpeg");
     background-size: cover;
     margin: 30px auto;
     box-shadow: 1px 1px 5px #999;

@@ -4,11 +4,11 @@ html, body {
 }
 
 body, button {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 
 main {
-    background-image: url('./fantasybg.png');
+    background-image: url("./fantasybg.png");
     background-size: cover;
     height: 100vh;
     display: flex;
@@ -47,5 +47,5 @@ button {
     padding: 10px;
     border-radius: 5px;
     background-color: #444;
-    color: #ffffff;
+    color: #FFFFFF;
 }

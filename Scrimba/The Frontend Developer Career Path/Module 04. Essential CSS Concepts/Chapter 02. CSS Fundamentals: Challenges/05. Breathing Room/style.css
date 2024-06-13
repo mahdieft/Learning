@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 21px;
     font-weight: 300;
     margin: 0;
@@ -62,13 +62,13 @@ section {
 }
 
 header {
-    background-color: #d7d7d7;
+    background-color: #D7D7D7;
 }
 
 .about-me {
-    background-color: #ffeaea;
+    background-color: #FFEAEA;
 }
 
 .articles {
-    background-color: #eaf9ff;
+    background-color: #EAF9FF;
 }

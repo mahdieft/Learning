@@ -1,7 +1,7 @@
 html, body {
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #f3f3f3;
+    background-color: #F3F3F3;
 }
 
 .film-list-app {
@@ -23,7 +23,7 @@ html, body {
 }
 
 .film-item {
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #DDD;
     padding: 1rem;
     font-size: 1.2rem;
 }

@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 21px;
     font-weight: 300;
     margin: 0;
@@ -24,8 +24,8 @@ h1 {
 h2 {
     font-size: 42px;
     margin-top: 0;
-    border-top: solid 1px #c4c4c4;
-    border-bottom: solid 1px #c4c4c4;
+    border-top: solid 1px #C4C4C4;
+    border-bottom: solid 1px #C4C4C4;
 
     padding: 20px 0;
     margin-bottom: 20px;
@@ -81,13 +81,13 @@ section {
 }
 
 .inverse {
-    color: #fff;
+    color: #FFF;
     background: #252525;
 }
 
 .inverse .btn:hover,
 .inverse .btn:focus {
-    background: #fff;
+    background: #FFF;
     color: #252525;
 }
 
@@ -103,5 +103,5 @@ section {
 .btn:hover,
 .btn:focus {
     background: #252525;
-    color: #fff;
+    color: #FFF;
 }

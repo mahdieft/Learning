@@ -4,12 +4,12 @@ html, body {
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
-    background-color: #e0f2fe;
+    font-family: "Roboto", sans-serif;
+    background-color: #E0F2FE;
 }
 
 h3, h4 {
-    color: #0369a1;
+    color: #0369A1;
 }
 
 h3 {
@@ -37,7 +37,7 @@ h4 {
     align-items: center;
     gap: 20px;
     background-color: white;
-    box-shadow: 1px 1px 5px 2px #bae6fd;
+    box-shadow: 1px 1px 5px 2px #BAE6FD;
 }
 
 .btn-container {
@@ -49,22 +49,22 @@ button {
     padding: 10px 15px;
     border-radius: 5px;
     border: none;
-    background-color: #38bdf8;
-    color: #f0f9ff;
+    background-color: #38BDF8;
+    color: #F0F9FF;
     cursor: pointer;
     text-transform: uppercase;
     font-weight: bold;
 }
 
 button:hover {
-    color: #38bdf8;
-    background-color: #f0f9ff;
+    color: #38BDF8;
+    background-color: #F0F9FF;
 }
 
 img {
     width: 150px;
     border-radius: 5px;
-    box-shadow: 1px 1px 10px 1px #cbd5e1;
+    box-shadow: 1px 1px 10px 1px #CBD5E1;
 }
 
 .purchased {

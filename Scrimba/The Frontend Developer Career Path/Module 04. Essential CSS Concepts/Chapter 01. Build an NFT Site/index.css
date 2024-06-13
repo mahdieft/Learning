@@ -1,7 +1,7 @@
 body {
     font-size: 16px;
-    color: #2b283a;
-    font-family: 'Roboto', sans-serif;
+    color: #2B283A;
+    font-family: "Roboto", sans-serif;
     margin: 0;
 }
 
@@ -19,7 +19,7 @@ h2 {
 }
 
 h3 {
-    color: #d0aaff;
+    color: #D0AAFF;
     font-size: 20px;
 }
 
@@ -28,12 +28,12 @@ p {
 }
 
 a {
-    color: #ef5839;
+    color: #EF5839;
     text-decoration: underline dotted;
 }
 
 a:hover, a:active {
-    color: #d4b44c;
+    color: #D4B44C;
 }
 
 .btn {
@@ -45,24 +45,24 @@ a:hover, a:active {
 }
 
 .btn-dark {
-    background: #5f29a3;
+    background: #5F29A3;
     color: whitesmoke
 }
 
 .btn-mid {
     background: #F0E0FF;
-    color: #5f29a3;
+    color: #5F29A3;
 }
 
 .btn-light {
     background: whitesmoke;
-    color: #5f29a3;
+    color: #5F29A3;
 }
 
 .btn:hover,
 .btn:active {
-    background-color: #f3e885;
-    color: #2b238a;
+    background-color: #F3E885;
+    color: #2B238A;
 }
 
 header, section, footer {
@@ -70,7 +70,7 @@ header, section, footer {
 }
 
 header, .section-two {
-    background-color: #5f29a3;
+    background-color: #5F29A3;
 }
 
 .section-two {
@@ -98,5 +98,5 @@ header, .section-two {
 
 footer {
     text-align: center;
-    color: #5f29a3;
+    color: #5F29A3;
 }

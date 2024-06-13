@@ -36,45 +36,43 @@ function favouriteMode(mode) {
 
 function favouriteFruit(theme) {
     if (theme === 'pastel') {
-        setProp('--light', '#f2f6c3');
-        setProp('--dark', '#68c4af');
+        setProp('--light', '#F2F6C3');
+        setProp('--dark', '#68C4AF');
     } else if (theme === 'muted') {
-        setProp('--light', '#4c5b64');
-        setProp('--dark', '#45241c');
+        setProp('--light', '#4C5B64');
+        setProp('--dark', '#45241C');
     } else if (theme === 'love') {
-        setProp('--light', '#f06836');
-        setProp('--dark', '#ba0001');
+        setProp('--light', '#F06836');
+        setProp('--dark', '#BA0001');
     } else if (theme === 'sky') {
-        setProp('--light', '#99ccff');
-        setProp('--dark', '#3366ff');
+        setProp('--light', '#99CCFF');
+        setProp('--dark', '#3366FF');
     } else if (theme === 'forrest') {
         setProp('--light', '#91B247');
         setProp('--dark', '#597C2B');
     } else if (theme === 'shiny') {
-        setProp('--light', '#2e9afe');
-        setProp('--dark', '#02197c');
+        setProp('--light', '#2E9AFE');
+        setProp('--dark', '#02197C');
     } else if (theme === 'banana') {
-        setProp('--light', '#fbec5d');
-        setProp('--dark', '#6b3e26');
+        setProp('--light', '#FBEC5D');
+        setProp('--dark', '#6B3E26');
     } else if (theme === 'watermelon') {
-        setProp('--light', '#75b855');
-        setProp('--dark', '#ad3838');
+        setProp('--light', '#75B855');
+        setProp('--dark', '#AD3838');
     } else if (theme === 'tomato') {
-        setProp('--light', '#d62e2e');
+        setProp('--light', '#D62E2E');
         setProp('--dark', '#600000');
     } else if (theme === 'avocado') {
-        setProp('--light', '#6b8c21');
+        setProp('--light', '#6B8C21');
         setProp('--dark', '#704012');
     } else if (theme === 'orange') {
-        setProp('--light', '#ffca16');
-        setProp('--dark', '#f97300');
+        setProp('--light', '#FFCA16');
+        setProp('--dark', '#F97300');
     } else if (theme === 'blueberry') {
-        setProp('--light', '#41a8f9');
+        setProp('--light', '#41A8F9');
         setProp('--dark', '#064490');
     } else {
-        setProp('--light', '#f5f5f5');
+        setProp('--light', '#F5F5F5');
         setProp('--dark', '#222222');
     }
 }
-
-

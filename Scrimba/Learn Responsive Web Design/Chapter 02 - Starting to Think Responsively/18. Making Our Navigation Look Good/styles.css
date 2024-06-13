@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: "Ubuntu", sans-serif;
 }
 
 /* =================
@@ -8,7 +8,7 @@ Typography
 ================= */
 
 h1 {
-    font-family: 'Lora', serif;
+    font-family: "Lora", serif;
     font-weight: 400;
     color: #143774;
     font-size: 2rem;
@@ -17,14 +17,14 @@ h1 {
 
 .subtitle {
     font-weight: 700;
-    color: #1792d2;
+    color: #1792D2;
     font-size: .75rem;
     margin: 0;
 }
 
 header {
     text-align: center;
-    background: #f8f8f8;
+    background: #F8F8F8;
     padding: 2em 0;
 }
 
@@ -47,5 +47,5 @@ nav a {
 
 nav a:hover,
 nav a:focus {
-    color: #1792d2;
+    color: #1792D2;
 }

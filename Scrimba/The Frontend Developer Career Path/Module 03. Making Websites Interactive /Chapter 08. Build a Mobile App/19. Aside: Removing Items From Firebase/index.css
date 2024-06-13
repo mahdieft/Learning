@@ -4,7 +4,7 @@ html, body {
 }
 
 h1 {
-    font-family: 'Alex Brush', cursive;
+    font-family: "Alex Brush", cursive;
     font-size: 50px;
     text-align: center;
 }
@@ -17,7 +17,7 @@ h1 {
 }
 
 .story {
-    background-color: #eee;
+    background-color: #EEE;
     padding: 15px;
     width: 25%;
     font-size: 15px;
@@ -27,6 +27,6 @@ h1 {
 
 .story:hover {
     cursor: pointer;
-    background-color: #fc4103;
-    color: #fff;
+    background-color: #FC4103;
+    color: #FFF;
 }

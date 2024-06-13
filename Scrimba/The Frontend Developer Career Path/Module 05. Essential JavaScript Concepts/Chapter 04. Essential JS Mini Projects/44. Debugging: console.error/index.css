@@ -7,12 +7,12 @@ body {
 main {
     width: 400px;
     height: 400px;
-    border: 3px solid #5b3da2;
+    border: 3px solid #5B3DA2;
     border-radius: 10px;
     margin: 16px auto;
     padding: 16px;
-    box-shadow: #26394d 0 20px 30px -10px;
-    background-color: #cec4e2;
+    box-shadow: #26394D 0 20px 30px -10px;
+    background-color: #CEC4E2;
     display: flex;
     flex-direction: column;
 }
@@ -22,8 +22,8 @@ h1 {
 }
 
 button {
-    background-color: #5b3da2;
-    color: #ffffff;
+    background-color: #5B3DA2;
+    color: #FFFFFF;
     border: none;
     border-radius: 10px;
     padding: 16px;
@@ -62,6 +62,6 @@ input[type=number] {
     width: 80px;
     margin: auto;
     border-radius: 10px;
-    border: 2px solid #5b3da2;
+    border: 2px solid #5B3DA2;
     padding-left: 10px;
 }

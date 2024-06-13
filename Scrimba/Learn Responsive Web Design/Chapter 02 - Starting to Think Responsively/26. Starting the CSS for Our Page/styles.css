@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: "Ubuntu", sans-serif;
     font-size: 1.125rem;
     font-weight: 300;
 }
@@ -12,7 +12,7 @@ Typography
 h1,
 h2,
 h3 {
-    font-family: 'Lora', serif;
+    font-family: "Lora", serif;
     font-weight: 400;
     color: #143774;
 }
@@ -23,7 +23,7 @@ h1 {
 }
 
 a {
-    color: #1792d2;
+    color: #1792D2;
 }
 
 a:hover,
@@ -38,7 +38,7 @@ strong {
 /* h1 subtitle */
 .subtitle {
     font-weight: 700;
-    color: #1792d2;
+    color: #1792D2;
     font-size: .75rem;
     margin: 0;
 }
@@ -53,7 +53,7 @@ strong {
 }
 
 .article-read-more {
-    color: #1792d2;
+    color: #1792D2;
     text-decoration: none;
     font-weight: 700;
 }
@@ -81,7 +81,7 @@ Layout
 }
 
 header {
-    background: #f8f8f8;
+    background: #F8F8F8;
     padding: 2em 0;
 }
 
@@ -117,7 +117,7 @@ nav a {
 
 nav a:hover,
 nav a:focus {
-    color: #1792d2;
+    color: #1792D2;
 }
 
 .current-page {

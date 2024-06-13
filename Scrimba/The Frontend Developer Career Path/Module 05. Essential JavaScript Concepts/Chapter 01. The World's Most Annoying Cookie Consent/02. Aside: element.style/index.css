@@ -1,7 +1,7 @@
 html, body {
     margin: 0;
     padding: 0;
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
 }
 
 h1, h2 {
@@ -9,8 +9,8 @@ h1, h2 {
 }
 
 h1 {
-    font-family: 'Henny Penny', sans-serif;
-    color: #ee6c4d;
+    font-family: "Henny Penny", sans-serif;
+    color: #EE6C4D;
     font-size: 55px;
 }
 
@@ -43,7 +43,7 @@ img {
 
 .answer {
     display: none;
-    color: #ee6c4d;
+    color: #EE6C4D;
     border: 1px solid;
 }
 
@@ -60,7 +60,7 @@ button {
     cursor: pointer;
     box-shadow: 1px 1px 5px 1px #999;
     margin-top: 20px;
-    background-color: #68e1fd;
+    background-color: #68E1FD;
 }
 
 button:hover {
@@ -68,5 +68,5 @@ button:hover {
 }
 
 button:active {
-    box-shadow: 1px 1px 10px 1px #fb923c;
+    box-shadow: 1px 1px 10px 1px #FB923C;
 }

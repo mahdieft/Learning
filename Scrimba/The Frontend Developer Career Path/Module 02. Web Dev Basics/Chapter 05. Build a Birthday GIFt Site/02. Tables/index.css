@@ -14,8 +14,8 @@ caption {
 }
 
 th {
-    background-color: #374d7c;
-    color: #fff;
+    background-color: #374D7C;
+    color: #FFF;
 }
 
 table {
@@ -24,7 +24,7 @@ table {
 }
 
 td {
-    background-color: #fdf289;
+    background-color: #FDF289;
 }
 
 td, th {
@@ -32,6 +32,6 @@ td, th {
 }
 
 tfoot td {
-    background-color: #46edc8;
+    background-color: #46EDC8;
     text-align: center;
 }
