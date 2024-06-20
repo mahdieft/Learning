@@ -1,0 +1,23 @@
+html, body {
+    margin: 1em;
+    padding: 0;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 5em 10em;
+    /* row-gap: .3em;
+    column-gap: .6em; */
+    gap: .5em;
+    border: 2px solid black;
+}
+
+.grid-item {
+    background-color: lightgreen;
+    padding: .2em;
+    text-align: center;
+    font-size: 2em;
+    color: black;
+    border: 1px solid #999;
+}
+    
