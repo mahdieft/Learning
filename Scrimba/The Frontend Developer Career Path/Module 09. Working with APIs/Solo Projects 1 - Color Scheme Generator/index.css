@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f5f5f5;
+    font-family: "Inter", sans-serif;
+}
+
+.container {
+    width: 550px;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+    padding: 2em 1em;
+}
+
+header {
+    padding-bottom: 2em;
+}
+
+form {
+    display: flex;
+    justify-content: space-around;
+}
+
+input[type="color"] {
+    width: 60px;
+    height: 40px;
+    border: none;
+}
+
+select,
+button {
+    padding: 0 1em;
+    border: 1px solid #D1D5DB;
+    border-radius: 5px;
+    background-color: inherit;
+}
+
+select {
+    width: 312px;
+    font-family: inherit;
+    font-size: 1rem;
+}
+
+button {
+    font-size: .75rem;
+}
+
+.color-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.color-hex {
+    font-size: .75rem;
+    text-transform: uppercase;
+    line-height: 2;
+}
+
+img {
+    width: 100px;
+    height: 400px;
+}
